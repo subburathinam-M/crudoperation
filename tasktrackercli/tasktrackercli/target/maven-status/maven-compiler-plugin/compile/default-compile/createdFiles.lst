@@ -1,0 +1,8 @@
+com\tasktracker\tasktrackercli\swagger\SwaggerConfig.class
+com\tasktracker\tasktrackercli\entiy\Task.class
+com\tasktracker\tasktrackercli\TasktrackercliApplication.class
+com\tasktracker\tasktrackercli\repository\TaskRepository.class
+com\tasktracker\tasktrackercli\cli\TaskCliCommands.class
+com\tasktracker\tasktrackercli\controller\TaskController.class
+com\tasktracker\tasktrackercli\service\impl\TaskServiceImpl.class
+com\tasktracker\tasktrackercli\service\TaskService.class
